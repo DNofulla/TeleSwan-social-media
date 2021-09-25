@@ -1,0 +1,9 @@
+[submodule "teleswan-social-media-app"]
+	path = teleswan-social-media-app
+	url = https://github.com/DNofulla/teleswan-social-media-app
+[submodule "teleswan-social-media-server"]
+	path = teleswan-social-media-server
+	url = https://github.com/DNofulla/teleswan-social-media-server
+[submodule "teleswan-social-media-web"]
+	path = teleswan-social-media-web
+	url = https://github.com/DNofulla/teleswan-social-media-web
